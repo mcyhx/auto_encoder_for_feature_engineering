@@ -1,4 +1,4 @@
-auto_encoder_for_feature_engineering
+
 This is autoencoder of feature engineering for Chinese book classification with pytorch.
 
 Check how to build a vocabuary for your nlp process pipiline using pytorch from here :https://github.com/HIT-SCIR/plm-nlp-code/blob/main/chp4/vocab.py
