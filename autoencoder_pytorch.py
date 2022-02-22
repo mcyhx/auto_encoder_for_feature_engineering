@@ -82,10 +82,10 @@ net = EncoderDecoder(encoder, decoder)
 
 if __name__ == '__main__':
     train_seq2seq(net, data_loader, lr = 0.001, num_epochs = 3, tgt_vocab =vocab, device = device)
-    torch.save(encoder.state_dict(), '/content/encoder_state_dict')
-    torch.save(encoder, '/content/encoder')
-    torch.save(net, '/content/net')
-    torch.save(vocab,'/content/vocab')
+    torch.save(encoder.state_dict(), '/Bookclassification/encoder_state_dict')
+    torch.save(encoder, '/Bookclassification/encoder')
+    torch.save(net, '/Bookclassification/net')
+    torch.save(vocab,'/Bookclassification/vocab')
      
 
 
