@@ -1,10 +1,14 @@
 
 This is autoencoder of feature engineering for Chinese book classification with pytorch.
 
-Check how to build a vocabuary for your nlp process pipiline using pytorch from here :https://github.com/HIT-SCIR/plm-nlp-code/blob/main/chp4/vocab.py
+Check how to build a vocabuary for your nlp process pipiline using pytorch from here:
+
+https://github.com/HIT-SCIR/plm-nlp-code/blob/main/chp4/vocab.py
 
 
-Check how to build an encoder_decoder architecture form here:https://github.com/d2l-ai/d2l-en/blob/master/d2l/torch.py
+Check how to build an encoder_decoder architecture form here:
+
+https://github.com/d2l-ai/d2l-en/blob/master/d2l/torch.py
 
 Thanks very much for the authors of the links mentioned above.
 
