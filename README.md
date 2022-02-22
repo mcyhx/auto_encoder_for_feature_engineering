@@ -14,7 +14,7 @@ Thanks very much for the authors of the links mentioned above.
 
 How to use the code：
 
-First the data should be have the followed format:
+First, the data should be have the followed format:
 ![image](https://user-images.githubusercontent.com/31196373/155123827-9a55a3c8-2893-4123-84ce-3b2190d15ccc.png)
 
 
