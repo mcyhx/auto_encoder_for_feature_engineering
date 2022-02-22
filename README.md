@@ -18,7 +18,7 @@ First the data should be have the followed format:
 ![image](https://user-images.githubusercontent.com/31196373/155123827-9a55a3c8-2893-4123-84ce-3b2190d15ccc.png)
 
 
-Second,when you have the dataset Run the file autoencoder_pytorch.py,save the encoder and vocab in your directory.
+Second,when you have the dataset,run the file autoencoder_pytorch.py,save the encoder and vocab in your directory.
 
 
 Third, use the encoder and vocab to generate(predict) the feature you wanted.
